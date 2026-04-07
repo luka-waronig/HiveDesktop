@@ -39,7 +39,7 @@ Hive Desktop combines:
 
 This repository is a **public product page only**.
 
-The full application source code is private, but partial open-sourcing will be released as soon as determined completely safe while we finalize stability, packaging, and release workflows.
+The Hive Desktop application is closed-source, but partial open-sourcing of the Hive core, as well as cryptographic and encryption implementations, will be released as soon as determined completely safe while we finalize stability, packaging, and release workflows.
 
 ---
 
