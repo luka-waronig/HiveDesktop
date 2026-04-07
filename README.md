@@ -14,7 +14,6 @@
 # Hive Desktop
 
 
-## What Is Hive Desktop?
 
 Hive Desktop is a next-generation desktop application for orchestrating secure, role-based AI agent swarms from a single control deck.
 
