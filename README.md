@@ -16,40 +16,37 @@
 
 ## What Is Hive Desktop?
 
-Hive Desktop is a next-generation desktop application for orchestrating secure, role-based AI swarms from a single control deck.
+Hive Desktop is a next-generation desktop application for orchestrating secure, role-based AI agent swarms from a single control deck.
 
-It is designed for:
+Designed for:
 - researchers exploring multi-agent coordination
 - advanced builders prototyping autonomous workflows
 - teams preparing enterprise and institutional deployments
 
 ---
 
-## Why Hive Desktop?
-
 Hive Desktop combines:
 - mission-based agent orchestration
 - secure node identity and local workspace controls
 - structured vault workflows for repeatable mission runs
 - operator-grade UX for launching, monitoring, and reviewing swarm behavior
-
+- Hive workspace assistant agent (Hive Daemon)
 ---
 
 ## Public Repo Notice
 
 This repository is a **public product page only**.
 
-The full application source code is currently private while we finalize stability, packaging, and release workflows.
+The full application source code is private, but partial open-sourcing will be released as soon as determined completely safe while we finalize stability, packaging, and release workflows.
 
 ---
 
 ## Launch Status
 
-Hive Desktop is in active development and approaching first public release phases.
+Hive Desktop application is already in v1.0 alpha, but remains in development.
 
 Current focus:
-- installer hardening
-- mission tooling UX
+- installer hardening; MSWindows-optimization; MacOS/Linux clean installation
 - reliability and production-grade operator flows
 
 ---
@@ -58,15 +55,15 @@ Current focus:
 
 We are preparing early-access availability.
 
-- Website: **[https://your-domain.com](https://your-domain.com)**
-- Waitlist: **[https://your-domain.com/waitlist](https://your-domain.com/waitlist)**
-- Contact: **founders@your-domain.com**
+- Website: **[https://hive-ai.net](https://hive-ai.net)**
+- Hive Desktop website launching soon.
+- Contact project lead at: **l.waronig@uva.nl**
 
 ---
 
 ## For Universities and Research Teams
 
-If you are a university lab, PhD group, or research department interested in pilot access, contact us for early collaboration.
+If you are a university lab, PhD group, or research department interested in pilots or demos, please contact us for early access and/or collaboration.
 
 ---
 
