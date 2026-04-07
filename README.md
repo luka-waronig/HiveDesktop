@@ -48,7 +48,7 @@ The full application source code is private, but partial open-sourcing will be r
 Hive Desktop application is already in v1.0 alpha, but remains in development.
 
 Current focus:
-- installer hardening; MSWindows-optimization; MacOS/Linux clean installation
+- installer hardening; optimized and clean for both Windows and MacOS
 - reliability and production-grade operator flows
 
 ---
