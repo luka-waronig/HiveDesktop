@@ -21,7 +21,7 @@ Designed for:
 - researchers exploring multi-agent coordination
 - advanced builders prototyping autonomous workflows
 - teams preparing enterprise and institutional deployments
-
+- Pro / Teams / Enterprise
 ---
 
 Hive Desktop combines:
@@ -32,6 +32,7 @@ Hive Desktop combines:
 - high operator controls, structured vault workflows for repeatable mission runs
 - operator-grade UX for launching, monitoring, and inspecting swarm behavior and agent coordination
 - Hive workspace assistant agent (Hive Daemon) 
+- Workspace-modes: Personal / Teams / Confidential
 ---
 
 ## Public Repo Notice
