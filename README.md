@@ -26,11 +26,13 @@ Designed for:
 ---
 
 Hive Desktop combines:
-- mission-based agent orchestration
-- secure node identity and local workspace controls
-- structured vault workflows for repeatable mission runs
-- operator-grade UX for launching, monitoring, and reviewing swarm behavior
-- Hive workspace assistant agent (Hive Daemon)
+- Rust-layer enforcement of the agent harness
+- universal shim of open LM providers
+- mission-based agent orchestration, policy-grounded tool harness
+- secure node identity, cryptography & encryption-at-rest
+- high operator controls, structured vault workflows for repeatable mission runs
+- operator-grade UX for launching, monitoring, and inspecting swarm behavior and agent coordination
+- Hive workspace assistant agent (Hive Daemon) 
 ---
 
 ## Public Repo Notice
