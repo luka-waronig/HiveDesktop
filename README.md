@@ -18,21 +18,21 @@
 Hive Desktop is a next-generation researcher- and operator-oriented desktop application for orchestrating secure, role-based AI agent swarms from a unified master control deck. Achieve controlled multi-agent runtimes with operator-grade governance mechanisms.
 
 Designed for:
-- researchers exploring multi-agent coordination
-- advanced builders prototyping autonomous workflows
-- teams preparing enterprise and institutional deployments
-- app licence versions: Pro / Teams / Enterprise
+- Researchers exploring multi-agent coordination.
+- Advanced builders prototyping autonomous workflows.
+- Teams preparing enterprise and institutional deployments.
+- Tier versions: Pro / Teams / Enterprise.
 ---
 
 Hive Desktop combines:
-- Rust-layer enforcement of the agent harness
-- universal shim of open LM providers
-- mission-based agent orchestration, policy-grounded tool harness
-- secure node identity, cryptography & encryption-at-rest
-- high operator controls, structured vault workflows for repeatable mission runs
-- operator-grade UX for launching, monitoring, and inspecting swarm behavior and agent coordination
-- Hive workspace assistant agent (Hive Daemon) 
-- Workspace-modes: Personal / Teams / Confidential
+- Rust-layer enforcement of the agent harness;
+- Optimizable universal shim of open LM providers;
+- mission-based agent orchestration, policy-grounded tool harness;
+- secure node identity, cryptography & encryption-at-rest;
+- high operator controls, structured vault workflows for repeatable mission runs;
+- Hive workspace assistant agent (Hive Daemon) that easily shapeshifts between model provides;
+- operator-grade UX for launching, monitoring, and inspecting swarm behavior and multi-agent coordination;
+- Workspace-modes: Personal / Teams / Confidential.
 ---
 
 ## Public Repo Notice
