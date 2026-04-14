@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Secure collective intelligence for mission-driven multi-agent systems.</strong><br/>
-  <strong>Advanced operator controls in a unified command center.</strong><br/>
+  <strong>Advanced operator controls from a unified command center.</strong><br/>
   <em>Launching soon.</em>
 </p>
 
