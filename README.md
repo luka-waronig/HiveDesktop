@@ -65,7 +65,7 @@ We are preparing early-access availability.
 
 ## For Universities and Research Teams
 
-If you are a university lab, PhD group, or research department interested in pilots or demos, please contact us for early access and/or collaboration.
+If you are a university lab, PhD group, or research department in a public or private institution and are interested in pilots or demos, please contact us for early access or collaboration.
 
 ---
 
