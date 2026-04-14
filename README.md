@@ -27,7 +27,7 @@ Designed for:
 
 Hive Desktop combines:
 - Rust-layer enforcement of the agent harness;
-- Optimizable universal shim for any AI language model provider;
+- Universal shim for any AI language model provider;
 - mission-based agent orchestration, policy-linked tool execution;
 - secure node identity, cryptography & encryption-at-rest;
 - Hive workspace assistant agent (Hive daemon);
