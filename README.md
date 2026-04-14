@@ -58,8 +58,7 @@ Current focus:
 We are preparing early-access availability.
 
 - Website: **[https://hive-ai.net](https://hive-ai.net)**
-- Hive Desktop website launching soon.
-- Contact project lead at: **l.waronig@uva.nl** and/or **luka.waronig@gmail.com**
+- Contact project lead at: **l.waronig@uva.nl**
 
 ---
 
