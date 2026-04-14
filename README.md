@@ -30,9 +30,9 @@ Hive Desktop combines:
 - Optimizable universal shim for any AI language model provider;
 - mission-based agent orchestration, policy-grounded tool harness;
 - secure node identity, cryptography & encryption-at-rest;
+-  Hive workspace assistant agent (Hive daemon);
 - high operator controls, structured vault workflows for repeatable mission runs;
-- Hive workspace assistant agent (Hive daemon);
-- operator-grade UX for launching, monitoring, and inspecting swarm behavior and multi-agent coordination;
+- experimental/benchmarking suite reproducibility;
 - Workspace-modes: Personal / Teams / Confidential.
 ---
 
