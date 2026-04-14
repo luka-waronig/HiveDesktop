@@ -36,7 +36,7 @@ Hive Desktop combines:
 - Workspace-modes: Personal / Teams / Confidential.
 ---
 
-## Public Repo Notice
+## Public Repository Notice
 
 This repository is a **public product page only**.
 
