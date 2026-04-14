@@ -16,11 +16,11 @@
 
 
 
-Hive Desktop is a next-generation researcher- and operator-oriented desktop application for orchestrating secure, role-based AI agent swarms from a unified master control deck. Achieve controlled multi-agent runtimes with operator-grade governance mechanisms.
+Hive Desktop is a researcher- and operator-oriented desktop application for orchestrating secure, role-based AI agent swarms from a unified master control deck. Achieve controlled multi-agent runtimes with operator-grade governance mechanisms. Manage sessions, swarms, and missions. Integrate your best chosen providers and models, investigate limits and bottlenecks of multiagent coordination, and help develop the next frontiers of agentic AI scaling paradigms. 
 
 Designed for:
 - Researchers exploring multi-agent coordination.
-- Advanced builders prototyping autonomous workflows.
+- Developers prototyping autonomous workflows and experimental suites.
 - Teams preparing enterprise and institutional deployments.
 - Tier versions: Pro / Teams / Enterprise.
 ---
