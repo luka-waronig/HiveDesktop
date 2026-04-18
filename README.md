@@ -31,7 +31,8 @@ Hive Desktop combines:
 - mission-based agent orchestration, policy-linked tool execution;
 - secure node identity, cryptography & encryption-at-rest;
 - Hive workspace assistant agent (Hive daemon);
-- high operator controls, structured vault workflows for repeatable mission runs;
+- agent swarm flight controls, observability, explainability, and sessions management;
+- transparent operator controls, structured vault workflows for repeatable mission runs;
 - experimental/benchmarking suite reproducibility;
 - Workspace-modes: Personal / Teams / Confidential.
 ---
