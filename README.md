@@ -22,7 +22,7 @@ Designed for:
 - Researchers exploring multi-agent coordination.
 - Developers prototyping autonomous workflows and experimental suites.
 - Teams preparing enterprise and institutional deployments.
-- Tier versions: Pro / Teams / Enterprise.
+- Editions: Benchmark Suite / Pro / Teams / Enterprise.
 ---
 
 Hive Desktop combines:
