@@ -44,16 +44,6 @@ The Hive Desktop application is closed-source, but partial open-sourcing of the 
 
 ---
 
-## Launch Status
-
-Hive Desktop application is already in alpha v0.22, but remains in development.
-
-Current focus:
-- installer hardening; optimized and clean for both Windows and MacOS
-- reliability and production-grade operator flows
-
----
-
 ## Early Access
 
 We are preparing early-access availability.
